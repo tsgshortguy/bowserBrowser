@@ -15,3 +15,4 @@ a browser i call bowser, (after my favorite mario villian)
 Python. you can get it at https://www.python.org/downloads/
 
 thats it until i update it (as of 10/18/24)
+> [!NOTE]  Btw I just made a new version it will release tmrw
